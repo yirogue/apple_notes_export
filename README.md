@@ -4,7 +4,7 @@
 An easy-to-use tool to export all the notes from your Apple Notes database to markdown and csv files.
 
 ## How to use
-### Preliminary
+### Grant Access
 Please remember to **grant full disk access** to the terminal or IDE that you're using to run this script. 
 
 Otherwise, the script won't get the authorization to access your apple notes database.
