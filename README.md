@@ -21,5 +21,5 @@ $ python3 notes_export.py
 After running the command, there will be a prompt for you to input your password in case there are locked notes.
 
 ## Output
-- Markdown files for each note (under the subdirectory of its folder name)
+- Markdown files for each note, including its creation & modification date (under the subdirectory of its folder name)
 - CSV files for notes metadata (under a `raw_data` sub-folder)
