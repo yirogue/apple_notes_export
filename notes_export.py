@@ -85,7 +85,7 @@ def get_argument():
     else:
         raise ValueError("only argument --directory is supported")
 
-    password = input("Enter your password for notes if there are locked notes.")
+    password = input("Enter your password for notes if there are locked notes: \n")
     return directory, password
 
 
